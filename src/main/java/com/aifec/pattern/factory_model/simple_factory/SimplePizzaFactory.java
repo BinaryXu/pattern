@@ -1,9 +1,9 @@
 package com.aifec.pattern.factory_model.simple_factory;
 
-import com.aifec.pattern.factory_model.bean.CheesePizza;
-import com.aifec.pattern.factory_model.bean.GreekPizza;
-import com.aifec.pattern.factory_model.bean.PepperoniPizza;
-import com.aifec.pattern.factory_model.bean.Pizza;
+import com.aifec.pattern.factory_model.simple_factory.bean.CheesePizza;
+import com.aifec.pattern.factory_model.simple_factory.bean.GreekPizza;
+import com.aifec.pattern.factory_model.simple_factory.bean.PepperoniPizza;
+import com.aifec.pattern.factory_model.simple_factory.bean.Pizza;
 
 /**
  * @author 洪峰

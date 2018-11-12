@@ -1,4 +1,4 @@
-package com.aifec.pattern.factory_model.bean;
+package com.aifec.pattern.factory_model.simple_factory.bean;
 
 /**
  * @author 洪峰

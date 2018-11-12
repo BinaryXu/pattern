@@ -1,4 +1,4 @@
-package com.aifec.pattern.factory_model.bean;
+package com.aifec.pattern.factory_model.simple_factory.bean;
 
 /**
  * @author 洪峰
@@ -7,7 +7,7 @@ package com.aifec.pattern.factory_model.bean;
  *
  **/
 
-public class CheesePizza implements Pizza{
+public class CheesePizza implements Pizza {
     @Override
     public void prepare() {
 
